@@ -2,7 +2,7 @@ ext {
     // thanks for brucezz
     android = [
         compileSdkVersion: 23,
-        buildToolsVersion: "23.0.3",
+        buildToolsVersion: "23.0.2",
         applicationId    : "com.xiecc.seeWeather",
         minSdkVersion    : 19, // Android 4.4 Kitkat
         targetSdkVersion : 23,
@@ -12,7 +12,7 @@ ext {
     ]
 
 
-    def supportVersion = "23.3.0"
+    def supportVersion = "24.0.0"
     def butterKnifeVersion = "7.0.0"
     def glideVersion = "3.7.0"
     def glideOkhttpVer = "1.4.0@aar"
